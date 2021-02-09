@@ -2,17 +2,6 @@
     <div id="ContainerMap">
         <div class="row">
             <div class="col-12">
-                <!-- <script>mapa()</script> -->
-              |<div class="contenido">
-                    <div class="principal">
-                        <h1 id="prueba2">Google Maps - AJ Katzenmaier Elementary </h1>
-            
-                        <div id="mapa">
-                            <h1 id="prueba"></h1>
-                        </div>
-
-                    </div>
-               </div>
             </div>
         </div>
     </div>
