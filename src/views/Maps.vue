@@ -9,8 +9,6 @@
 
 import ContainerMap from "@/components/Maps.vue";
 
-
-
 export default {
   name: "Maps",
 
