@@ -1,6 +1,6 @@
 <template>
   <div class="Maps">
-    <ContainerMap />
+    <ContainerMap /> <!--aquí llamamos el id que contiene todo en el archiv Maps.vue-->
   </div>
 </template>
 
